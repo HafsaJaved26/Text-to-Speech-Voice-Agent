@@ -137,20 +137,3 @@ def extract_text(file_path):
 
     else:
         raise ValueError("Unsupported file type")
-
-
-# -------------------------------------------------
-# RUN LOCALLY / COLAB
-# -------------------------------------------------
-if __name__ == "__main__":
-    file_path = input("Enter PDF / DOCX / Image file path: ").strip()
-
-    try:
-        text = extract_text(file_path)
-
-        print("\n========== EXTRACTED TEXT ==========\n")
-        print(text)
-        print("\n===================================")
-
-    except Exception as e:
-        print(f"\n❌ Error: {e}")
