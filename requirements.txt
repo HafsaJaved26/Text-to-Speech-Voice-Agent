@@ -1,0 +1,6 @@
+!apt-get update -qq
+!apt-get install -y espeak-ng espeak ffmpeg libespeak1
+!pip install gTTS pyttsx3 pydub
+!pip install easyocr
+!pip install langdetect
+!pip install pdfplumber python-docx easyocr pymupdf pillow
