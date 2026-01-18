@@ -1,6 +1,21 @@
-# Text-to-Speech Voice Agent 
+# 🎙️ Text-to-Speech (TTS) Voice Agent
 
-A powerful web application that converts text to speech with support for multiple languages and file formats. Upload documents or input text directly to generate high-quality audio files.
+A multilingual Text-to-Speech Voice Agent designed to convert text from documents, images, and direct input into natural-sounding speech.
+The system supports English (online & offline) and Urdu TTS, with automatic language detection, file handling, and a web-based interface for real-time interaction.
+
+# 👥 Team Members & Contributions
+
+This project was collaboratively developed by a team of dedicated members:
+
+Hafsa Javed 
+Abdul Jabbar 
+Afia Noor
+Eman Afzal
+Eiman Zahra Awan
+Muhammad Zaheer 
+Faraz Khan 
+Fiza Aslam 
+Ghazal Hafeez 
 
 ##  Features
 
