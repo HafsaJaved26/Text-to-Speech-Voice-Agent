@@ -122,7 +122,7 @@ export FLASK_DEBUG=true  # Linux/Mac
 python app.py
 ```
 
-## 🔌 API Reference
+## API Reference
 
 ### Endpoints
 
