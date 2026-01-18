@@ -7,15 +7,23 @@ The system supports English (online & offline) and Urdu TTS, with automatic lang
 
 This project was collaboratively developed by a team of dedicated members:
 
-Hafsa Javed 
-Abdul Jabbar 
-Afia Noor
-Eman Afzal
-Eiman Zahra Awan
-Muhammad Zaheer 
-Faraz Khan 
-Fiza Aslam 
-Ghazal Hafeez 
+# Hafsa Javed
+
+# Abdul Jabbar 
+
+# Afia Noor
+
+# Eman Afzal
+
+# Eiman Zahra Awan
+
+# Muhammad Zaheer 
+
+# Faraz Khan 
+
+# Fiza Aslam 
+
+# Ghazal Hafeez 
 
 ##  Features
 
